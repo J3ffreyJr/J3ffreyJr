@@ -146,12 +146,11 @@ App de literacia financeira gamificado em RPG — M-Pesa Finckathon.
 ```bash
 J3ffreyJr@ISUTC:~$ cat objetivos_2026.log
 
-[✓] Concluir cadeiras de Teoria da Computação e AED II
-[✓] Explorar Extended Reality (Unity / Unreal Engine)
-[~] Aprofundar arquitetura full-stack (Spring Boot + APIs REST)
+[✓] Explorar IA
+[~] Aprofundar arquitetura full-stack
 [~] Expandir portfólio com novos projetos de impacto local
 [ ] Contribuir para projetos open-source
-[ ] Aplicar a estágios/vagas internacionais em dev web
+[ ] Aplicar a estágios/vagas em dev web
 
 J3ffreyJr@ISUTC:~$ echo "sempre a compilar, sempre a aprender_"
 ```
