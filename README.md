@@ -5,13 +5,11 @@
 
 <br clear="all"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0f,50:1a0508,100:0a0a0f&height=140&section=header&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0f,50:1a0508,100:0a0a0f&height=200&section=header&text=JEFFREY%20WILLIAM%20JR.&fontSize=46&fontColor=E62429&fontAlignY=38&desc=SYSTEM_BOOT.exe%20::%20WEB%20DEVELOPER%20%2F%20SOFTWARE%20ENGINEER&descSize=16&descAlignY=58&descColor=00E5FF&animation=fadeIn" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Bangers&size=48&duration=2600&pause=100000&color=E62429&center=true&vCenter=true&repeat=false&width=700&height=75&lines=JEFFREY+WILLIAM+JR." alt="Nome" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=19&duration=2800&pause=800&color=00E5FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=110&lines=%3E+whoami;J3ffreyJr+~+Maputo%2C+Mozambique+%F0%9F%95%B8%EF%B8%8F;%3E+funcao;Web+Developer+%2F+Software+Engineer+Jr.;%3E+status;Compilando+ideias+em+c%C3%B3digo..." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=900&color=E62429&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%3E+whoami;J3ffreyJr+~+Maputo%2C+Mozambique+%F0%9F%95%B8%EF%B8%8F;%3E+status;Compiling+ideias+em+c%C3%B3digo...;%3E+stack;Java+%7C+Spring+Boot+%7C+JS+%7C+PHP+%7C+Python" alt="Typing SVG" />
 
 <br/>
 
@@ -24,7 +22,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=gradient&customColorList=12" width="100%"/>
 
-<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=26&duration=1&pause=999999&color=E62429&center=true&vCenter=true&repeat=false&width=350&height=45&lines=%3CSobreMim+%2F%3E" alt="Sobre Mim"/></h2>
+## `<SobreMim />`
 
 <table>
 <tr>
@@ -64,7 +62,7 @@ status_atual: "🕸️ Tecendo novos projetos..."
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=gradient&customColorList=12" width="100%"/>
 
-<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=26&duration=1&pause=999999&color=E62429&center=true&vCenter=true&repeat=false&width=350&height=45&lines=%3CTechStack+%2F%3E" alt="Tech Stack"/></h2>
+## `<TechStack />`
 
 <div align="center">
 
@@ -94,7 +92,7 @@ status_atual: "🕸️ Tecendo novos projetos..."
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=gradient&customColorList=12" width="100%"/>
 
-<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=26&duration=1&pause=999999&color=E62429&center=true&vCenter=true&repeat=false&width=350&height=45&lines=%3CProjetos+%2F%3E" alt="Projetos"/></h2>
+## `<Projetos />`
 
 <table width="100%">
 <tr>
@@ -143,7 +141,7 @@ App de literacia financeira gamificado em RPG — M-Pesa Finckathon.
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=gradient&customColorList=12" width="100%"/>
 
-<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=26&duration=1&pause=999999&color=E62429&center=true&vCenter=true&repeat=false&width=430&height=45&lines=%3CObjetivosAtuais+%2F%3E" alt="Objetivos Atuais"/></h2>
+## `<ObjetivosAtuais />`
 
 ```bash
 J3ffreyJr@ISUTC:~$ cat objetivos_2026.log
@@ -159,7 +157,7 @@ J3ffreyJr@ISUTC:~$ echo "sempre a compilar, sempre a aprender_"
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=gradient&customColorList=12" width="100%"/>
 
-<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=26&duration=1&pause=999999&color=E62429&center=true&vCenter=true&repeat=false&width=430&height=45&lines=%3CGitHubAnalytics+%2F%3E" alt="GitHub Analytics"/></h2>
+## `<GitHubAnalytics />`
 
 <div align="center">
 
@@ -172,7 +170,7 @@ J3ffreyJr@ISUTC:~$ echo "sempre a compilar, sempre a aprender_"
 
 </div>
 
-<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=26&duration=1&pause=999999&color=E62429&center=true&vCenter=true&repeat=false&width=280&height=45&lines=%3CTrophies+%2F%3E" alt="Trophies"/></h2>
+## `<Trophies />`
 
 <div align="center">
 
@@ -180,23 +178,19 @@ J3ffreyJr@ISUTC:~$ echo "sempre a compilar, sempre a aprender_"
 
 </div>
 
-<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=26&duration=1&pause=999999&color=E62429&center=true&vCenter=true&repeat=false&width=430&height=45&lines=%3CContributionSnake+%2F%3E" alt="Contribution Snake"/></h2>
+## `<ContributionSnake />`
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/J3ffreyJr/J3ffreyJr/output/github-contribution-grid-snake-spidey-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/J3ffreyJr/J3ffreyJr/output/github-contribution-grid-snake-spidey.svg" />
-  <img alt="snake spider-verse" src="https://raw.githubusercontent.com/J3ffreyJr/J3ffreyJr/output/github-contribution-grid-snake-spidey-dark.svg" width="90%"/>
-</picture>
+<img src="https://raw.githubusercontent.com/J3ffreyJr/J3ffreyJr/output/github-contribution-grid-snake-dark.svg" width="90%"/>
 
-<sub>🕷️ Cobra tece a teia pelo grid de contribuições — paleta preto / roxo Spider-Verse / vermelho / ciano glow. Ver <code>snake.yml</code> abaixo do rodapé.</sub>
+<sub>🕷️ Gerado via GitHub Actions — ver instruções de configuração abaixo do rodapé.</sub>
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=gradient&customColorList=12" width="100%"/>
 
-<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=26&duration=1&pause=999999&color=E62429&center=true&vCenter=true&repeat=false&width=430&height=45&lines=%3CRedesSociais+%2F%3E" alt="Redes Sociais"/></h2>
+## `<RedesSociais />`
 
 <div align="center">
 
@@ -221,8 +215,8 @@ J3ffreyJr@ISUTC:~$ echo "sempre a compilar, sempre a aprender_"
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:1a0508,100:0a0a0f&height=120&section=footer&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=15&duration=1&pause=999999&color=8B2FC9&center=true&vCenter=true&repeat=false&width=560&height=30&lines=%22Com+grandes+structs%2C+v%C3%AAm+grandes+responsabilidades.%22" alt="quote"/>
-
+<sub>🕸️ <i>"Com grandes structs, vêm grandes responsabilidades."</i> 🕸️</sub>
+<br/>
 <sub>Feito com <b style="color:#E62429">&lt;/&gt;</b> em Maputo, Moçambique — © 2026 Jeffrey William Jr.</sub>
 
 </div>
