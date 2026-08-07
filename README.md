@@ -147,7 +147,7 @@ App de literacia financeira gamificado em RPG — M-Pesa Finckathon.
 ```bash
 J3ffreyJr@SUIT-OS:~$ cat objetivos_2026.log
 
-[✓] Explorar IA
+[~] Explorar IA
 [~] Aprofundar arquitetura full-stack
 [~] Expandir portfólio com novos projetos de impacto local
 [ ] Contribuir para projetos open-source
